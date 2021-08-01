@@ -1,7 +1,5 @@
 # nobi
 
-# client
-
 ## Build Setup
 
 ```bash
